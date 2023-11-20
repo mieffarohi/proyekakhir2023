@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Membaca dataset
-day_df = pd.read_csv(r'C:\Users\user\Documents\IDCamp 2023\Proyek Akhir IDCamp 2023\Bike-sharing-dataset\day.csv')
-hour_df = pd.read_csv(r'C:\Users\user\Documents\IDCamp 2023\Proyek Akhir IDCamp 2023\Bike-sharing-dataset\hour.csv')
+day_df = pd.read_csv('day.csv')
+hour_df = pd.read_csv('hour.csv')
 
 # Menampilkan judul dashboard
 st.title('Bike Sharing Dashboard')
