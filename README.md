@@ -1,4 +1,4 @@
-# Dashboard IDCamp 2023 - Bike Sharing Dashboard
+# Dashboard Proyek Analisis Data IDCamp 2023 - Bike Sharing Dashboard
 
 1. **Setup Virtual Environment:**
    ```bash
